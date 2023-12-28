@@ -24,5 +24,5 @@ OPTAB = {'ADD': '18',
          'TIX': '2C',
          'WD': 'DC'}
 
-print("Damn")
+
 print("dasdaslkdask")
