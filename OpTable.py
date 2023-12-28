@@ -24,5 +24,5 @@ OPTAB = {'ADD': '18',
          'TIX': '2C',
          'WD': 'DC'}
 
-
+print("Cool")
 print("dasdaslkdask")
