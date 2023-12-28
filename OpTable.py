@@ -24,9 +24,5 @@ OPTAB = {'ADD': '18',
          'TIX': '2C',
          'WD': 'DC'}
 
-<<<<<<< HEAD
-print("ljadsqs")
-=======
 print("b")
->>>>>>> b2
 print("dasdaslkdask")
