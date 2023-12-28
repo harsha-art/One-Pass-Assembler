@@ -24,5 +24,9 @@ OPTAB = {'ADD': '18',
          'TIX': '2C',
          'WD': 'DC'}
 
+<<<<<<< HEAD
 print("Cool")
+=======
+print("b")
+>>>>>>> b2
 print("dasdaslkdask")
